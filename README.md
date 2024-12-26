@@ -1,1 +1,13 @@
 # mern-library-manage-project-backend
+-download the zip file 
+-and put it in the root directory in backend folder
+-now you have to use some commands to run the project
+-commands to use
+-open terminal in backend directory:-
+-now use npm i 
+-npm run dev or node app.js 
+-make changes according to your need in .env file
+-open terminal in frontend directory:-
+-npm i
+-npm run dev to run the frontend server .
+-thats it
